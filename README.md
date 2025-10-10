@@ -29,7 +29,6 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 ### Ongoing Projects 🚧
 
 - **[DApp for E Portfolio System](https://github.com/ManashviCode/E-Portfolio-blockchain)**  ( Solidity + Ethereum  ) 
-- **[Pet Palace](https://github.com/ManashviCode/Pet_Palace)** 📱 ( React 18 + .NET 7 + TypeScript ) 
 
 
 ### Completed Projects 🚧
@@ -37,10 +36,12 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 - **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js + SQL Server )
 - **[Vehicle_Parking_Space_Counter](https://github.com/ManashviCode/Vehicle_Parking_Space_Counter)** ( Object Detection(Computer Vision) )
 - **[Spelling-Corrector-and-Grammar-Checker-for-Sinhala](https://github.com/ManashviCode/Sinhala-Spell-and-Grammar-Checker)** ( AI + Python )
-- **[Gmail Management System](https://github.com/ManashviCode/PHP-GMS-)** ( PHP )
-- **[NutriVision](https://github.com/ManashviCode/NutriVision)** ( LLM + React Native )
-- **[CodeSoft Internship](https://github.com/ManashviCode/CODESOFT)** ( LandPage , Portfolio , Calculator -> HTML + CSS + JavaScript )
 - **[Plant Disease Detection](https://github.com/ManashviCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50)** ( Transfer Learning with ResNet50)
+- **[NutriVision](https://github.com/ManashviCode/NutriVision)** ( LLM + React Native )
+- **[Pet Palace](https://github.com/ManashviCode/Pet_Palace)** 📱 ( React 18 + .NET 7 + TypeScript ) 
+- **[Gmail Management System](https://github.com/ManashviCode/PHP-GMS-)** ( PHP )
+- **[CodeSoft Internship](https://github.com/ManashviCode/CODESOFT)** ( LandPage , Portfolio , Calculator -> HTML + CSS + JavaScript )
+
 
 <h3 align="left">Languages and Tools Summary:</h3>
 
@@ -49,9 +50,9 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 
 ### ⚡My status
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManashviCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub status" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManashviCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manashvicode&theme=tokyonight" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DivaniManarandi&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub status" > 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaniManarandi&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivaniManarandi&theme=tokyonight" alt="mystreak"/>
 </p>
 
 ## <p align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> </p>
