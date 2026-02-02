@@ -54,10 +54,14 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 
 ### ⚡My status
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DivaniManarandi&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub status" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaniManarandi&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivaniManarandi&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivaniManarandi&show_icons=true&include_all_commits=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaniManarandi&layout=compact&theme=dracula" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivaniManarandi&theme=tokyonight"/>
+</p>
+
 
 ## <p align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> </p>
 <div align="center">
