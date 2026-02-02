@@ -30,13 +30,14 @@ Domain Knownledge        | [![Computer Engineering Badge](https://img.shields.io
 Cloud Services         | [![AWS Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
 Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Blockchain Badge](https://img.shields.io/badge/-Blockchain-4B0082?style=flat&logo=Ethereum&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
 
-### Ongoing Projects 🚧
+### Internship Projects 🚧
 
-- **[DApp for E Portfolio System](https://github.com/ManashviCode/E-Portfolio-blockchain)**  ( Solidity + Ethereum  ) 
+
 
 
 ### Completed Projects 🚧
 
+- **[DApp for E Portfolio System](https://github.com/ManashviCode/E-Portfolio-blockchain)**  ( Solidity + Ethereum  ) 
 - **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js + SQL Server )
 - **[Vehicle_Parking_Space_Counter](https://github.com/ManashviCode/Vehicle_Parking_Space_Counter)** ( Object Detection(Computer Vision) )
 - **[Spelling-Corrector-and-Grammar-Checker-for-Sinhala](https://github.com/ManashviCode/Sinhala-Spell-and-Grammar-Checker)** ( AI + Python )
