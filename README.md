@@ -2,8 +2,10 @@
 
 ### Who am I?
 
-- I'm a tech explorer, a passionate developer exploring new horizons..
-  I enjoy sharing knowledge with the world through my [Medium blog](https://medium.com/@divanimanarandi) and my coding projects. (Computer Engineering Undergraduate-University of Jaffna)
+- I'm a tech explorer and a passionate developer, always exploring new horizons.
+  I enjoy sharing my knowledge with the world through my coding projects, my
+  Medium blog 👇, and by creating educational
+  content on TikTok 👇 and YouTube 👇.
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=STILL+LEARNING+🧠+,++STILL+BUILDING+🛠️;+Still+discovering+New+Possibilities💫...." />
