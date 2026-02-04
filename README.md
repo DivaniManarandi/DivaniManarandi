@@ -32,8 +32,7 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 
 ### Internship Projects 🚧
 
-
-
+- **[INTERNSHIP EXPERIENCE](https://github.com/DivaniManarandi/INTERNSHIP-PROJECTS)**  
 
 ### Completed Projects 🚧
 
