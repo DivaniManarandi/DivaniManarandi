@@ -34,7 +34,7 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 
 - **[INTERNSHIP EXPERIENCE](https://github.com/DivaniManarandi/INTERNSHIP-PROJECTS)**  
 
-### Completed Projects 🚧
+### Academic Projects 🚧
 
 - **[DApp for E Portfolio System](https://github.com/ManashviCode/E-Portfolio-blockchain)**  ( Solidity + Ethereum  ) 
 - **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js + SQL Server )
@@ -45,6 +45,9 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 - **[Pet Palace](https://github.com/ManashviCode/Pet_Palace)** 📱 ( React 18 + .NET 7 + TypeScript ) 
 - **[Gmail Management System](https://github.com/ManashviCode/PHP-GMS-)** ( PHP )
 - **[CodeSoft Internship](https://github.com/ManashviCode/CODESOFT)** ( LandPage , Portfolio , Calculator -> HTML + CSS + JavaScript )
+
+### Other Projects 🚧
+- **[To-Do-app (basic containerized app)](https://github.com/DivaniManarandi/todo-app)** ( Docker + Docker Compose + Github Action + flask API )
 
 
 <h3 align="left">Languages and Tools Summary:</h3>
