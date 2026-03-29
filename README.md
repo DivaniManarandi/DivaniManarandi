@@ -16,6 +16,9 @@
 <a href="divamanashvi03@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.tiktok.com/@manashvicode?_t=8qTQjzQU7qE&_r=1"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>&nbsp;
 <a href="https://www.youtube.com/@Manashvicode"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+<a href="https://divanimanarandi.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/portfolio-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
   
 </p>
 
